@@ -100,4 +100,4 @@ function getImages(entries) {
       });
     }
   });
-}
+} 

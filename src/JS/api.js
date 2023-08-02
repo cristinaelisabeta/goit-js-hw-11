@@ -18,4 +18,4 @@ export default async function fetchImages(q, page) {
   } catch (error) {
     console.log(error.message);
   }
-} 
+}  
