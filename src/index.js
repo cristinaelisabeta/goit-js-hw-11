@@ -81,7 +81,6 @@ function createMarkup(array) {
   wrapper.insertAdjacentHTML('beforeend', imgList);
 
   const lightbox = new SimpleLightbox('.gallery a', {
-    /* options */
   });
 }
 
